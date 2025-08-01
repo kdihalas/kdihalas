@@ -23,4 +23,4 @@ src="https://img.shields.io/github/followers/kdihalas?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kdihalas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kdihalas&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-tawny.vercel.app?user=kdihalas&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
